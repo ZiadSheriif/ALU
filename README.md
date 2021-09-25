@@ -40,9 +40,9 @@
     * The input can be entered through switches
     * You need to implement circuit which can be used to convert from BCD to seven segments, you can use it in converting result to be displayed on seven segments.
     * You need to implement circuit which convert from binary to BCD
-# The selectors
+# Selectors
 
-| Selector | operations|
+| Selector | operation|
 | :-: | :------: |
 | 00  | Addition |
 | 01  | Subtraction |
